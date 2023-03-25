@@ -6,8 +6,11 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <div>
+    <h6>
+        This is my first
+    </h6>
     <h1>
-        Calculadora
+        Calculator
     </h1>
     <Calculator />
     </div>
